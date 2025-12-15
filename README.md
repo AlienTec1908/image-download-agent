@@ -1,6 +1,6 @@
 # 🚀 The PowerShell Workhorse - Silent Image Downloader
 
-![agent-image-ripper-cover](cover.png)
+<img src="cover.png" style="width: 50%; height: 30rem;">
 
 A battle-tested PowerShell agent that automatically downloads image galleries from your clipboard. Set it, forget it, and let it work.
 
