@@ -4,6 +4,11 @@
   <img src="cover.png" alt="agent-image-ripper cover" width="50%" style="height: 30rem;">
 </p>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
+[![PowerShell](https://img.shields.io/badge/PowerShell-Required-blue.svg)](https://docs.microsoft.com/powershell/)
+[![GitHub stars](https://img.shields.io/github/stars/AlienTec1908/image-download-agent?style=social)](https://github.com/AlienTec1908/image-download-agent/stargazers)
+
 A battle-tested PowerShell agent that automatically downloads image galleries from your clipboard. Set it, forget it, and let it work.
 
 ---
@@ -21,26 +26,31 @@ Launch the agent a single time — it then runs quietly in the background and do
 No interface. No constant configuration. No clicking around.  
 It adapts to your workflow instead of interrupting it.
 
-✨ **Why you’ll like it**
-- Runs silently in the background  
-- Saves time on repetitive tasks  
-- Minimalistic, focused, and reliable  
-- Perfect for research, documentation, archiving, or content workflows  
+---
 
-This tool doesn’t try to explain itself, enforce a workflow, or sell you anything.  
-It simply does its job — **quietly, efficiently, and consistently**.
+### ✨ Key Features
 
-🧠 Built for people who prefer working over clicking.  
-🛠️ A tool, not a toy.
+| Feature | Description |
+|---------|-------------|
+| 🤖 Fully Automated | Just copy a URL. The agent detects it, downloads the images, renames them, and stores them automatically. |
+| 📋 Clipboard Monitoring | Runs silently in the background, waiting for new gallery links. |
+| 🪶 Lightweight & Simple | Pure PowerShell, minimal dependencies, and very fast. |
+| 🛡️ Battle-Tested | Refined over **5+ years** of daily use. |
+| ⏱️ Continuous | Runs continuously until manually stopped. |
 
 ---
 
 ### 🎯 Usage
 
-1. **Adjust the paths** inside the script (see configuration below).
-2. **Run the script** in a PowerShell terminal. It will start monitoring in the background.
-3. **Copy the URL** of an image gallery to your clipboard.
+1. **Adjust the paths** inside the script (see configuration below).  
+2. **Run the script** in a PowerShell terminal. It will start monitoring in the background.  
+3. **Copy the URL** of an image gallery to your clipboard.  
 4. **Let it work.** Images are automatically downloaded, uniquely renamed, and moved to your target directory.
+
+<p align="center">
+  <img src="demo.gif" alt="agent demo" width="60%">
+</p>
+*GIF placeholder: shows agent detecting a URL and downloading images automatically.*
 
 ---
 
