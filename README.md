@@ -1,7 +1,7 @@
 # 🚀 The PowerShell Workhorse - Silent Image Downloader
 
 <p align="center">
-  <img src="cover.png" alt="agent-image-ripper cover" width="50%" style="height: 30rem;">
+  <img src="cover.png" alt="agent-image-ripper cover" width="50%" style="height: 20rem;">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
