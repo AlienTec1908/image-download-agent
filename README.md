@@ -66,15 +66,30 @@ Ein kampferprobter PowerShell-Agent, der automatisch Bildergalerien aus deiner Z
 *   **🪶 Simpel & Leichtgewichtig:** Keine komplexen Abhängigkeiten. Ein reines PowerShell-Skript, das schnell und schonend für dein System ist.
 *   **🛡️ Extrem Robust:** Dies ist kein theoretisches Projekt. Dieses Tool wurde über **fünf Jahre im täglichen Einsatz** kampferprobt und verfeinert.
 
-### 🗿 Ein Stück lebende Software-Geschichte
+## 🗿 Image Download Agent  
+**Einfach starten. URL kopieren. Der Rest passiert von selbst.**
 
-Dir wird vielleicht auffallen, dass dieses Skript klassische Befehle wie `findstr` anstelle von moderneren Alternativen verwendet. **Das ist kein Versehen, das ist ein Feature.**
+Dieses Tool wurde gebaut, um dir Arbeit **abzunehmen**, nicht um Aufmerksamkeit zu fordern.  
+Du startest den Agent einmal – danach läuft er still im Hintergrund und erledigt genau das, was er soll.
 
-Der Kern dieses Tools wurde vor über fünf Jahren geschrieben. Es wurde als einfache, pragmatische Lösung gebaut, die einfach funktioniert. Es hat unzählige Website-Änderungen, Sicherheitsupdates und sogar große PowerShell-Versionssprünge überlebt, ohne dass eine einzige Änderung an seiner Kernlogik notwendig war.
+📋 **Link kopieren**  
+🤖 **Agent erkennt die URL automatisch**  
+🖼️ **Bilder werden sauber gespeichert**
 
-Es ist der ultimative Beweis für die Philosophie: **"Wenn es nicht kaputt ist, repariere es nicht."**
+Kein Interface. Kein Konfigurieren. Kein Klicken.  
+Es passt sich deinem Workflow an, statt dich zu unterbrechen.
 
-Dieses Skript ist ein Denkmal für die Stärke einer einfachen, robusten Lösung in einer Welt von über-entwickelter Software. Es ist ein Werkzeug, kein Spielzeug.
+✨ **Warum du es mögen wirst**
+- Läuft unauffällig im Hintergrund  
+- Spart Zeit bei wiederkehrenden Aufgaben  
+- Minimalistisch, fokussiert, zuverlässig  
+- Ideal für Recherche, Doku, Archivierung oder Content-Workflows  
+
+Dieses Tool will nichts erklären, nichts erzwingen und nichts verkaufen.  
+Es tut einfach seinen Job – **leise, effizient und dauerhaft**.
+
+🧠 Für Menschen, die lieber arbeiten als klicken.  
+🛠️ Ein Werkzeug, kein Spielzeug.
 
 ### 🎯 Anwendung
 
