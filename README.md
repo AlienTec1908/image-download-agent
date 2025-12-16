@@ -1,4 +1,4 @@
-<p align="center"># 🚀 The PowerShell Workhorse - Silent Image Downloader
+# 🚀 The PowerShell Workhorse - Silent Image Downloader
 
 <p align="center">
   <img src="cover.png" alt="agent-image-ripper cover" width="50%" style="height: 20rem;">
